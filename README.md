@@ -16,7 +16,7 @@ Complete PCB
 <img width="935" height="652" alt="Screenshot 2026-04-04 at 1 10 48 PM" src="https://github.com/user-attachments/assets/918a21fc-627f-4748-85a0-fc4fc806a46b" />
 Schematic
 
-I will source all parts myself, but here is a general BOM.
+I will source and buy all parts myself, but here is a general BOM.
 
 * 1x Seeed Studio XIAO RP2040
 * 1x Custom PCB (my KiCad design)
