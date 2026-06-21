@@ -3,6 +3,11 @@ A Macropad to help me do certain programmable actions, with 8 keys, LEDs, and an
 
 I made this project to learn more about PCB designing and keyboard firmware, especially because I want to build a keyboard for a different project later.  I also wanted a small, customizable device that could actually help me, whether it is while CADding or just simply doing work.  (I can also flex to my friends that I built this lol)
 
+<img width="768" height="1024" alt="6670F626-7255-40B0-8C1A-318823283440_1_105_c" src="https://github.com/user-attachments/assets/396335b7-93c1-438d-bfe5-e6ae65acf74f" />
+
+Finished Macropad!
+
+
 <img width="1045" height="815" alt="Screenshot 2026-04-03 125743" src="https://github.com/user-attachments/assets/dbe8aa1b-799b-4742-bff0-063f11907bb1" />
 Complete CAD
 <img width="1528" height="838" alt="Screenshot 2026-04-03 125758" src="https://github.com/user-attachments/assets/db4db57d-a80c-49ec-a366-b8c6611fd6eb" />
@@ -29,3 +34,4 @@ I will source and buy all parts myself, but here is a general BOM.
 * 1x Top plate (3D Printed)
 * 1x Bottom case (3D Printed)
 * 1x USB-C cable (I mean you need it)
+
